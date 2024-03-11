@@ -138,8 +138,9 @@ const CreateCourseForm = () => {
           />
         </div>
         <div className="flex items-center mt-4 gap-x-2">
-          <button className="btn bg-red-500">Cancel</button>
-          <button className="btn bg-yellow-400">Continue</button>
+          <button className="btn text-white  bg-red-500">Cancel</button>
+          <button className="btn text-white  bg-yellow-500">Continue</button>
+          <button className="btn text-white  bg-sky-400">Preview</button>
         </div>
       </div>
     </div>

@@ -10,8 +10,8 @@ export default authMiddleware({
     "/contact",
     "/admindash",
     "/admincreatecourse",
-    "adminedit",
-    "adminview",
+    "/adminedit",
+    "/adminview",
   ],
   // Routes that can always be accessed, and have
   // no authentication information
