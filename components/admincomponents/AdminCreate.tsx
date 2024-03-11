@@ -1,6 +1,5 @@
-import { UserButton } from "@clerk/nextjs";
 import React from "react";
-import Mockup from "../aboutcomp/Mockup";
+import CreateCourseForm from "./subcomponents/CreateCourseForm";
 
 const AdminBar = () => {
   return (
@@ -93,7 +92,7 @@ const AdminBar = () => {
               </div>
             </div>
           </div>
-          Content
+          <CreateCourseForm />
         </div>
         <div className="drawer-side">
           <label

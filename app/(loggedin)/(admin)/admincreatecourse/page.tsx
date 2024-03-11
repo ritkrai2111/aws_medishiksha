@@ -1,3 +1,9 @@
+import AdminCreate from "@/components/admincomponents/AdminCreate";
+
 export default function AdminCreateCourse() {
-  return <div></div>;
+  return (
+    <div>
+      <AdminCreate />
+    </div>
+  );
 }
