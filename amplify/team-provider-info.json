@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-medishikshatrial2003-dev-105024-authRole",
+      "UnauthRoleArn": "arn:aws:iam::507926478878:role/amplify-medishikshatrial2003-dev-105024-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::507926478878:role/amplify-medishikshatrial2003-dev-105024-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-medishikshatrial2003-dev-105024-deployment",
+      "UnauthRoleName": "amplify-medishikshatrial2003-dev-105024-unauthRole",
+      "StackName": "amplify-medishikshatrial2003-dev-105024",
+      "StackId": "arn:aws:cloudformation:eu-north-1:507926478878:stack/amplify-medishikshatrial2003-dev-105024/677eb620-e0f9-11ee-80de-0a19d08ab100",
+      "AmplifyAppId": "d30xmpeq581dqa"
+    },
+    "categories": {
+      "auth": {
+        "medishikshatrial2003929eeeb7": {}
+      },
+      "storage": {
+        "s389341b36": {}
+      }
+    }
+  }
+}
